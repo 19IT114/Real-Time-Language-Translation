@@ -21,6 +21,6 @@
 <a href="https://git-scm.com/" target="_blank">&nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="git" width="50" height="50"/> </a> 
 <a href="https://pypi.org/project/pyttsx3/" target="_blank"> &nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/61548445/148886062-d3d1e3bc-62f8-467e-abbe-e25d38b18b22.png" title="pyttsx3" alt="javascript" width="80" height="50"/> </a><a href="https://pypi.org/project/SpeechRecognition/" target="_blank"> &nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/61548445/148886917-fa389e9b-fc3b-450e-83a5-9cbb57317a58.png" title="Python : Speech Recognition" alt="javascript" width="130" height="70"/> </a> 
   </p>
-<hr/>
+
 </div>
 
