@@ -13,9 +13,9 @@
 <a href="https://docs.anaconda.com/" target="_blank"> &nbsp;&nbsp;
  <img src="https://user-images.githubusercontent.com/61548445/148883836-1223a9c3-23c0-4ff3-8824-f587138d75d3.png" title="Anaconda Navigator" alt="cplusplus" width="100" height="50"/> </a> 
  <a href="https://jupyter-notebook.readthedocs.io/en/stable/" target="_blank">&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/61548445/148884397-c460ce30-38e1-485a-8deb-0d4779a11efb.png" title="Jupyter Notebook" alt="express" width="50" height="50"/> </a> 
- <a href="https://git-scm.com/" target="_blank">&nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="git" width="40" height="40"/> </a> 
+ <a href="https://git-scm.com/" target="_blank">&nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="git" width="50" height="50"/> </a> 
  <a href="https://pypi.org/project/pyttsx3/" target="_blank"> &nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/61548445/148886062-d3d1e3bc-62f8-467e-abbe-e25d38b18b22.png" title="pyttsx3" alt="javascript" width="80" height="50"/> </a> 
- <a href="https://www.mongodb.com/" target="_blank"> &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank">&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank">&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> &nbsp;&nbsp;<a href="https://reactjs.org/" target="_blank"> &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+  </p>
 <hr/>
 
 
