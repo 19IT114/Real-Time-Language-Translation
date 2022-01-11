@@ -8,7 +8,7 @@
 </p>
 <hr/>
  </div>
-<br>
+<br></br>
 <div>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://docs.python.org/3/" target="_blank"> <img src="https://user-images.githubusercontent.com/61548445/148883046-5d708d49-b5fa-4bc8-be8e-c42bca310f97.png" alt="c" title="Python" width="80" height="45"/> </a>
