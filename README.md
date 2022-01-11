@@ -6,7 +6,7 @@
 </p>
 
 <br>
- <p align="right"><img align="right" border_radius="25%" width="55%" height="50%" alt="githubemoji"src="https://user-images.githubusercontent.com/61548445/148815377-659dec8a-8cb8-4fe2-ab89-a32c8a714f05.png" width="100%"/></p>
+ <p align="right"><img align="right" border_radius="25%" width="57%" height="50%" alt="githubemoji"src="https://user-images.githubusercontent.com/61548445/148815377-659dec8a-8cb8-4fe2-ab89-a32c8a714f05.png" width="100%"/></p>
 <hr/>
 
 <br>
