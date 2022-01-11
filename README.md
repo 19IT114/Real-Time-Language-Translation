@@ -13,6 +13,7 @@
 <div align="center">
 
 <h3 style="margin: 10px" align="center">Languages and Tools:</h3>
+ <hr>
 <p align="center"> <a href="https://docs.python.org/3/" target="_blank"> <img src="https://user-images.githubusercontent.com/61548445/148883046-5d708d49-b5fa-4bc8-be8e-c42bca310f97.png" alt="c" title="Python" width="80" height="45"/> </a>
 <a href="https://docs.anaconda.com/" target="_blank"> &nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/61548445/148883836-1223a9c3-23c0-4ff3-8824-f587138d75d3.png" title="Anaconda Navigator" alt="cplusplus" width="100" height="50"/> </a> 
