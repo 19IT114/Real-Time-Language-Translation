@@ -1,4 +1,7 @@
-
+<style>
+  table th {
+    border: none !important;
+  }
 <p align="center"><img  src="https://readme-typing-svg.herokuapp.com?font=&color=%23F7801C&size=22&lines=Real+Time+Language+Translation"/></p>
 <table>
   <tr>
