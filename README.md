@@ -1,6 +1,6 @@
 
 <p align="center"><img  src="https://readme-typing-svg.herokuapp.com?font=&color=%23F7801C&size=22&lines=Real+Time+Language+Translation"/></p>
-<table>
+<table border="0">
   <tr>
     <th>Company</th>
     <th>Contact</th>
