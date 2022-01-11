@@ -14,7 +14,7 @@
 <a href="https://docs.anaconda.com/" target="_blank"> &nbsp;&nbsp;
  <img src="https://user-images.githubusercontent.com/61548445/148883836-1223a9c3-23c0-4ff3-8824-f587138d75d3.png" alt="cplusplus" width="100" height="50"/> </a> 
  
- <a href="https://expressjs.com" target="_blank">&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+ <a href="https://expressjs.com" target="_blank">&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/61548445/148884225-c5245653-9d27-4485-a864-46c93c41d4ab.png" alt="express" width="40" height="40"/> </a> 
  
  <a href="https://git-scm.com/" target="_blank">&nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
  
