@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "651945386525",
+    "project_id": "real-translator",
+    "storage_bucket": "real-translator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651945386525:android:ab724649bfab896116dcf4",
+        "android_client_info": {
+          "package_name": "com.souvikbiswas.flutterfire_samples"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651945386525-ng7mmc9a3gdhkd4863157ru3ueqt19bb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.souvikbiswas.flutterfire_samples",
+            "certificate_hash": "2a99fb7021eaca61fc813062d86a3d8715dd2f08"
+          }
+        },
+        {
+          "client_id": "651945386525-0dtcaii4l3qln06rl75u49ommi5ahm1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB62nH19Ddi26or0zskjg_XKdcgD5ASdzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651945386525-0dtcaii4l3qln06rl75u49ommi5ahm1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
