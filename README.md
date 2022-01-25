@@ -8,7 +8,7 @@
  <p align="right"><img style="margin-top:20px" border_radius="25%" width="46.5%" height="50%" alt="githubemoji"src="https://user-images.githubusercontent.com/61548445/148815377-659dec8a-8cb8-4fe2-ab89-a32c8a714f05.png" width="100%"/></p>
 
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 <div >
 
 <h3 style="margin: 10px" align="center">Languages and Tools:</h3>
