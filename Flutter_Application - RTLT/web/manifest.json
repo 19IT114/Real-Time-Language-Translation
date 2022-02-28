@@ -1,6 +1,6 @@
 {
-    "name": "real",
-    "short_name": "real",
+    "name": "realtime",
+    "short_name": "realtime",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
